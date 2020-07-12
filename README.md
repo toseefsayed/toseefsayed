@@ -1,7 +1,5 @@
 # Hi there 👋! 
 ## Toseef Sayed here 👨‍🎓.
-![Toseef Sayed](https://www.flickr.com/photos/189295441@N04/50106186462/in/photolist-2jkHiyA)
-
 
 - 🔭 I’m currently working on _Python Programming Skills_.
 - 🌱 I’m currently learning _Data Science and Analytics_.
