@@ -3,17 +3,17 @@
 ## Welcome to my Github Resume ✌
 
 ### About Me:
-I am *Toseef Sayed*, an Engineering Graduate in *Electronics and Telecommunication*. My friends call me *Toffee*. I am a resident in Mumbai, India.
-Completed my Bachelor's of Engineering Degree at *M. H. Saboo Siddik College of Engineering*, affiliated college with *The University of Mumbai*.
-Aggregate CGPA acquired by me in 4 years of degree college is *6.77*.
+I am **Toseef Sayed**, a Graduate in **Electronics and Telecommunication Engineering**. My friends call me **Toffee**. I live in Mumbai, India.
+Completed my Bachelor's of Engineering Degree at **M. H. Saboo Siddik College of Engineering**, an affiliated college of The University of Mumbai.
+Aggregate CGPA acquired by me in 4 years of this degree course is **6.77**.
 
 ### Skills
 #### Language
-- Python
-- R
-- SQL
-- NoSQL
-- Git
+-- Python
+-- R
+-- SQL
+-- NoSQL
+-- Git
 
 #### Platform
 - Windows OS
@@ -36,7 +36,7 @@ Program completing several assignments and a major Project in Python Programming
 
 ### Projects
 **1** - Employee Attrition Control (Internship Project).
-        Description: Data Analytics on employee data for a company trying to control Employee Attrition Problem.
+        - Description: Data Analytics on employee data for a company trying to control Employee Attrition Problem.
 
 ### CERTIFICATE AND ACHIEVEMENTS
 - A Workshop on ‘Advanced Robotics Development’ by M.E.S.A and I.E.E.E at M. H. Saboo Siddik College of Engineering.
