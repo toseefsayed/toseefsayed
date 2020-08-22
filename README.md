@@ -7,7 +7,7 @@ I am **Toseef Sayed**, a Graduate in **Electronics and Telecommunication Enginee
 Completed my Bachelor's of Engineering Degree at **M. H. Saboo Siddik College of Engineering**, an affiliated college of The University of Mumbai.
 Aggregate CGPA acquired by me in 4 years of this degree course is **6.77**.
 
-### Skills
+### Skills:
 #### Language
 - Python
 - R
@@ -30,15 +30,15 @@ Aggregate CGPA acquired by me in 4 years of this degree course is **6.77**.
 - Microsoft Applications
 - Google Applications.
 
-### Work Experience
+### Work Experience:
 **1**.  Worked as Data Analytics and Visualization Intern for a month at Takenmind Organization as part of Global Internship
 Program completing several assignments and a major Project in Python Programming Language.
 
-### Projects
+### Projects:
 > 1] Employee Attrition Control (Internship Project)
 >> Data Analytics on employee data for a company trying to control Employee Attrition Problem.
 
-### CERTIFICATE AND ACHIEVEMENTS
+### Certificates & Achievements:
 - Achieved ‘Career Counselling Foundation Certificate’ by 3G Me Life.
 - Certificate for attending a Remote Faculty Development Program on Arduino by G. H. Patel College of Engineering with Spoken Tutorial of IIT Bombay.
 - ‘Scrum: The Basics’ certified course by the Project Management Institute (PMI) with Linkedin Learning, PDU of 1.00.
@@ -50,17 +50,17 @@ Event by 3G IRPS.
 - ‘Career Edge - Knockdown the Lockdown’ certification by TCS iON.
 - ‘Startup Summit Live’ event of 100+ speakers organized by Stirring Minds, Startup Summit and Career Guide.
 
-### EDUCATION
+### Education:
 |Degree|Board/University|Percentage/CGPA|
 |:---:|:---:|:---:|
 |10<sup>th</sup>|Maharashtra State Board|`88.20 %`|
 |12<sup>th</sup>|Maharashtra State Board|`66.00 %`|
 |BE/BTech|The University of Mumbai|`6.77 CGPA`|
 
-### CONTACTS
+### Contacts:
 [Email](mailto:touseefsayed449@gmail.com) | [LinkedIn](https://www.linkedin.com/in/toseefsayed/) | [Instagram](https://www.instagram.com/toseef_sayed/) | [Twitter](https://www.twitter.com/SayedToseef/)
 
-### Area of interest
+### Area of interest:
 - Data Analytics
 - Python Programming
 - Routing and Switching
@@ -68,12 +68,13 @@ Event by 3G IRPS.
 - Drawing
 - Exercising
 
-### Life Goals
+### Life Goals:
 - [x] Get placed at a MNC
 - [ ] Buy myself a house with a football field at the backyard
 - [ ] Built a Company
 - [ ] Start a self financing NGO
 - [ ] Interview Cristiano Ronaldo, Mahendre Singh Dhoni, Tim Draper, Elon Musk and Shahrukh Khan (at least once)
+
 
 > This was all about me. I would like to end here. Have a great day ahead 😄
 >> - Thank you!
