@@ -31,12 +31,12 @@ Aggregate CGPA acquired by me in 4 years of this degree course is **6.77**.
 - Google Applications.
 
 ### Work Experience
-**1** Worked as Data Analytics and Visualization Intern for a month at Takenmind Organization as part of Global Internship
+**1**.  Worked as Data Analytics and Visualization Intern for a month at Takenmind Organization as part of Global Internship
 Program completing several assignments and a major Project in Python Programming Language.
 
 ### Projects
-> Employee Attrition Control (Internship Project)
->> Description: Data Analytics on employee data for a company trying to control Employee Attrition Problem.
+> 1] Employee Attrition Control (Internship Project)
+>> Data Analytics on employee data for a company trying to control Employee Attrition Problem.
 
 ### CERTIFICATE AND ACHIEVEMENTS
 - Achieved ‘Career Counselling Foundation Certificate’ by 3G Me Life.
@@ -75,5 +75,5 @@ Event by 3G IRPS.
 - [ ] Start a self financing NGO
 - [ ] Interview Cristiano Ronaldo, Mahendre Singh Dhoni, Tim Draper, Elon Musk and Shahrukh Khan (at least once)
 
-This was all about me. I would like to end here. Have a great day ahead 😄
-- Thank you!
+> This was all about me. I would like to end here. Have a great day ahead 😄
+>> - Thank you!
