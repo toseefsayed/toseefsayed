@@ -1,10 +1,10 @@
-# Hi there 👋! Toseef here 😊
-
+# Hi 👋 !!
+# Toseef Sayed here 😊
 ## Welcome to my Github Resume ✌
 
 ### About Me:
-I am **Toseef Sayed**, a Graduate in **Electronics and Telecommunication Engineering**. My friends call me **Toffee**. I live in Mumbai, India.
-Completed my Bachelor's of Engineering Degree at **M. H. Saboo Siddik College of Engineering**, an affiliated college of The University of Mumbai.
+I am **Toseef Sohel Sayed**, a Graduate in **Electronics and Telecommunication Engineering**. My friends call me **Toffee**. I am an Indian, residing in Mumbai, India.
+I am pursuing Bachelor's of Engineering Degree at **M. H. Saboo Siddik College of Engineering**, an affiliated college of The University of Mumbai.
 Aggregate CGPA acquired by me in 4 years of this degree course is **6.77**.
 
 ### Skills:
@@ -27,8 +27,8 @@ Aggregate CGPA acquired by me in 4 years of this degree course is **6.77**.
 - Git Bash
 - Github
 - Scilab
-- Microsoft Applications
-- Google Applications.
+- Microsoft Office Applications
+- Google Suite Applications
 
 ### Work Experience:
 **1**.  Worked as Data Analytics and Visualization Intern for a month at Takenmind Organization as part of Global Internship
@@ -39,23 +39,14 @@ Program completing several assignments and a major Project in Python Programming
 >> Data Analytics on employee data for a company trying to control Employee Attrition Problem.
 
 ### Certificates & Achievements:
-- Achieved ‘Career Counselling Foundation Certificate’ by 3G Me Life.
-- Certificate for attending a Remote Faculty Development Program on Arduino by G. H. Patel College of Engineering with Spoken Tutorial of IIT Bombay.
-- ‘Scrum: The Basics’ certified course by the Project Management Institute (PMI) with Linkedin Learning, PDU of 1.00.
-- Achieved a certificate of ‘Bright Immaculate’ for IT Quiz Contest by Pillai HOC College.
-- Certified for ‘Python: Working with Predictive Analytics’ course by National Association of State Boards of Accountancy (NASBA) with
-LinkedIn Learning achieving 2.40 CPE credits.
-- Webinar on “The impacts of AI and COVID-19 on Employment, Career and Entrepreneurship”, a World Book of Records
-Event by 3G IRPS.
-- ‘Career Edge - Knockdown the Lockdown’ certification by TCS iON.
-- ‘Startup Summit Live’ event of 100+ speakers organized by Stirring Minds, Startup Summit and Career Guide.
+- You can check out all my certificates [here](https://drive.google.com/drive/folders/1SzU1kRDUkK5dOPiO5jNrzJtqEm2HrZPt?usp=sharing).
 
 ### Education:
-|Degree|Board/University|Percentage/CGPA|
+|Qualification|Board/University|Percentage/CGPA|
 |:---:|:---:|:---:|
 |10<sup>th</sup>|Maharashtra State Board|`88.20 %`|
 |12<sup>th</sup>|Maharashtra State Board|`66.00 %`|
-|BE/BTech|The University of Mumbai|`6.77 CGPA`|
+|BE/BTech (pursuing)|The University of Mumbai|`6.77 CGPA`|
 
 ### Contacts:
 [Email](mailto:touseefsayed449@gmail.com) | [LinkedIn](https://www.linkedin.com/in/toseefsayed/) | [Instagram](https://www.instagram.com/toseef_sayed/) | [Twitter](https://www.twitter.com/SayedToseef/)
@@ -70,11 +61,11 @@ Event by 3G IRPS.
 
 ### Life Goals:
 - [x] Get placed at a MNC
-- [ ] Buy myself a house with a football field at the backyard
-- [ ] Built a Company
+- [ ] Develop an Application
 - [ ] Start a self financing NGO
-- [ ] Interview Cristiano Ronaldo, Mahendre Singh Dhoni, Tim Draper, Elon Musk and Shahrukh Khan (at least once)
+- [ ] Interview my role models; Cristiano Ronaldo, Mahendre Singh Dhoni, Tim Draper, Elon Musk and Shahrukh Khan (at least once)
+- [ ] Buy myself a house with a football field at the backyard
 
 
-> This was all about me. I would like to end here. Have a great day ahead 😄
+> This was all about me. Have a great day ahead 😄
 >> - Thank you!
