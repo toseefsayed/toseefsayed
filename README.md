@@ -49,7 +49,7 @@ Program completing several assignments and a major Project in Python Programming
 |BE/BTech (pursuing)|The University of Mumbai|`6.77 CGPA`|
 
 ### Contacts:
-[Email](mailto:touseefsayed449@gmail.com) | [LinkedIn](https://www.linkedin.com/in/toseefsayed/) | [Instagram](https://www.instagram.com/toseef_sayed/) | [Twitter](https://www.twitter.com/SayedToseef/)
+[Email](mailto:touseefsayed449@gmail.com) | [LinkedIn](https://www.linkedin.com/in/toseefsayed/) | [Instagram](https://www.instagram.com/toseefsayed_/) | [Twitter](https://www.twitter.com/SayedToseef/)
 
 ### Area of interest:
 - Data Analytics
