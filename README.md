@@ -23,29 +23,21 @@ Program completing several assignments and a major Project in Python Programming
 - You can check out all my certificates [here](https://drive.google.com/drive/folders/1SzU1kRDUkK5dOPiO5jNrzJtqEm2HrZPt?usp=sharing).
 
 ### Education:
-|Qualification|Board/University|Percentage/CGPA|
-|:---:|:---:|:---:|
-|10<sup>th</sup>|Maharashtra State Board|`88.20 %`|
-|12<sup>th</sup>|Maharashtra State Board|`66.00 %`|
-|BE/BTech (pursuing)|The University of Mumbai|`6.77 CGPA`|
+| Sr. No. | Qualification | Year | Board/University | Specialization | Percentage/CGPA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 | Bachelor of Engineering | 2020 | Mumbai University | Electronics & Telecommunication | `7.13 (67.78 %)` |
+| 2 | HSC (12<sup>th</sup>) | 2016 | Maharashtra State Board | Science & Applied Electronics | `66.00 %` |
+| 3 | SSC (10<sup>th</sup>) | 2014 | Maharashtra State Board | General | `88.20 %` |
 
 ### Contacts:
 [Email](mailto:touseefsayed449@gmail.com) | [LinkedIn](https://www.linkedin.com/in/toseefsayed/) | [Instagram](https://www.instagram.com/toseefsayed_/) | [Twitter](https://www.twitter.com/SayedToseef/)
 
 ### Area of interest:
-- Data Analytics
-- Python Programming
-- Routing and Switching
 - Football
 - Drawing
 - Exercising
+- Reading
 
-### Life Goals:
-- [x] Get placed at a MNC
-- [ ] Develop an Application
-- [ ] Start a self financing NGO
-- [ ] Interview my role models; Cristiano Ronaldo, Mahendre Singh Dhoni, Tim Draper, Elon Musk and Shahrukh Khan (at least once)
-- [ ] Buy myself a house with a football field at the backyard
 
 
 > This was all about me. Have a great day ahead 😄
