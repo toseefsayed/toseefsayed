@@ -30,7 +30,7 @@ Program completing several assignments and a major Project in Python Programming
 | 3 | SSC (10<sup>th</sup>) | 2014 | Maharashtra State Board | General | `88.20 %` |
 
 ### Contacts:
-[Email](mailto:touseefsayed449@gmail.com) | [LinkedIn](https://www.linkedin.com/in/toseefsayed/) | [Instagram](https://www.instagram.com/toseefsayed_/) | [Twitter](https://www.twitter.com/SayedToseef/)
+[Email](/images/gmail.png "Error")(mailto:touseefsayed449@gmail.com) | [LinkedIn](https://www.linkedin.com/in/toseefsayed/) | [Instagram](https://www.instagram.com/toseefsayed_/) | [Twitter](https://www.twitter.com/SayedToseef/)
 
 ### Area of interest:
 - Football
