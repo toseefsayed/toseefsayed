@@ -1,5 +1,5 @@
 # Hi 😊
-# Welcome to my GitHub Resume
+# Welcome to my GitHub Resume 📜
 
 
 - - - -
@@ -23,7 +23,7 @@ My friends call me **Toffee**. I reside at an apartment in Mumbai, India.
 `Work History :`
 -----------
 <details>
-  <summary><b>Infosys Ltd</b></summary>
+  <summary><b>Infosys Ltd,</b> <i>Feb-Sept 2021</i></summary>
   <ul>
     <li><strong>Test Engineer</strong></li>
     <ul>
@@ -65,4 +65,8 @@ My friends call me **Toffee**. I reside at an apartment in Mumbai, India.
 >> - Thank you!
 
 
-[Up](#welcome-to-my-github-resume)
+[Go at Top 👆](#hi-)
+
+
+
+
